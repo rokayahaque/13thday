@@ -1,0 +1,26 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+section{
+padding:20px ;
+display: flex;
+height: 90%;
+width: 90%;
+gap: 20px;
+background-color: rgb(243, 28, 28);
+}
+
+#child1{
+    height: 90vh;
+    width: 90vh;
+    background-color: rgb(243, 28, 128);
+}
+
+#child2{
+    height: 90vh;
+    width: 90vh;
+    background-color: darkviolet;
+}
